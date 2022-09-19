@@ -23,3 +23,7 @@ Jasper Hatton
 # Activity 5
 
 ![Image of commands](./ece444-lab1-a5.jpg "Some commands used for the rebase")
+
+# Activity 6
+
+<https://github.com/hatton-jasper9/ECE444-F2022-EP>
