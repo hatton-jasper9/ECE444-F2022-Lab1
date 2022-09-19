@@ -11,3 +11,11 @@ Jasper Hatton
 # Activity 3
 
 ![Image of commit](./ece444-lab1-a3.jpg "Commit for activity 3")
+
+# Activity 4
+
+<https://github.com/chenjond/ECE444-F2022-Lab1>
+
+![Image of commit](./ece444-lab1-a4.jpg "Commit into team-mates repo")
+
+![Image of commit](./ece444-lab1-a4-2.jpg "Commit by team-mate into my repo")
