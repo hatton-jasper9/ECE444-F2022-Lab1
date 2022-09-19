@@ -19,3 +19,7 @@ Jasper Hatton
 ![Image of commit](./ece444-lab1-a4.jpg "Commit into team-mates repo")
 
 ![Image of commit](./ece444-lab1-a4-2.jpg "Commit by team-mate into my repo")
+
+# Activity 5
+
+![Image of commands](./ece444-lab1-a5.jpg "Some commands used for the rebase")
