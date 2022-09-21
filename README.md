@@ -33,3 +33,10 @@ Jasper Hatton
 ![Image of homepage](./ece444-lab1-a7.jpg "The home page with my name")
 
 ![Image of command](./ece444-lab1-a7-2.jpg "The rebase command")
+
+# Activity 8
+
+![Image of tab](./ece444-lab1-a8-2.jpg "The tab with my name")
+
+![Image of command](./ece444-lab1-a8.jpg "The rebase command")
+
