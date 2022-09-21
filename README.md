@@ -27,3 +27,9 @@ Jasper Hatton
 # Activity 6
 
 <https://github.com/hatton-jasper9/ECE444-F2022-EP>
+
+# Activity 7
+
+![Image of homepage](./ece444-lab1-a7.jpg "The home page with my name")
+
+![Image of command](./ece444-lab1-a7-2.jpg "The rebase command")
